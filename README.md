@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ani-DA
-- 👀 I’m interested in Data Analytics
+- 👋 Hi, I’m Anindita Biswas
+- 👀 I’m an aspiring data analytics professional. In this space, I am posting the personal projects that I've prepared to enhance and showcase my data analytics skills and knowledge.
 - 📫 Reach me @ aninditabiswas.ab1990@gmail.com
 
 <!---
